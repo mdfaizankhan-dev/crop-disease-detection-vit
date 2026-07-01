@@ -1,0 +1,4 @@
+dataset/
+*.pth
+static/uploads/
+__pycache__/
